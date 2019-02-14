@@ -28,7 +28,7 @@ Start | Event | Twitter | City, Country | Keywords | Priority(**)
 2019.05.21 | **[AUTONOMOUS VEHICLE SYMPOSIUM](https://www.autonomousvehiclesymposium.com/en/)** | [![](utils/twitter.png)](https://twitter.com/avtexpo) | Stuttgart, Germany | `Conference`, `Exibition`, `Test`, `Software` | :star: :star:
 2019.05.25 | **[IEEE ICSE](https://2019.icse-conferences.org/home)** | [![](utils/twitter.png)](https://twitter.com/icseconf) | Montreal, Canada | `Conference`, `Workshop` |
 2019.06.02 | **[ICAS](https://www.iaria.org/conferences2019/ICAS19.html)** | | Athens, Greece | `Conference`, `Research` |
-2019.06.09 | ***[IEEE INTELLIGENT VEHICLES SYMPOSIUM](http://iv2019.org/)** | [![](utils/twitter.png)](https://twitter.com/ieeeiv2019) | Paris, France | `Conference`, `Workshop`, `Research` | :star: :star: :star: :star:
+2019.06.09 | ***[IEEE INTELLIGENT VEHICLES SYMPOSIUM](http://iv2019.org/)** | [![](utils/twitter.png)](https://twitter.com/ieeeiv2019) | Paris, France | `Conference`, `Workshop`, `Research` | :star: :star: :star:
 2019.06.09 | **[VDI CONFERENCE](https://www.vdi-wissensforum.de/en/event/automated-driving/)** | [![](utils/twitter.png)](https://twitter.com/vdi_tagungen) | Dusseldorf, Germany | `Conference` | 
 2019.06.21 | **[CARLA AD CHALLENGE WORKSHOP](https://carlachallenge.org/workshop/)** | [![](utils/twitter.png)](https://twitter.com/carlasimulator) | Long Beach, US | `Conference`, `Simulator`, `CARLA` | :star: :star:
 2019.06.24 | **[AAC](https://aac19.sciencesconf.org/)** | |  Orléans, France | `Conference`, `Control` | 
@@ -42,10 +42,10 @@ Start | Event | Twitter | City, Country | Keywords | Priority(**)
 2019.09.26 | **[AUTO.AI](https://www.auto-ai.eu/)** | [![](utils/twitter.png)](https://twitter.com/SmartMobi_Hub) | Berlin, Germany | `Conference` |
 2019.10.23 | ***[GPU TECHNOLOGY CONFERENCE](https://www.nvidia.com/en-eu/gtc/)** | [![](utils/twitter.png)](https://twitter.com/NVIDIAEU) | Munich, Germany | `Conference`, `Nvidia` |
 2019.10.23 | **[IEDAS – AKTIVE SICHERHEIT](https://tagung-aktive-sicherheit.de/)** | | Ingolstadt, Germany | `Conference`, `Safety` |
-2019.10.27 | **[IEEE ITSC](https://www.itsc2019.org/)** | [![](utils/twitter.png)](https://twitter.com/itsc2019) | Auckland, New Zealand | `Conference`, `Research` | :star: :star: :star: :star:
+2019.10.27 | **[IEEE ITSC](https://www.itsc2019.org/)** | [![](utils/twitter.png)](https://twitter.com/itsc2019) | Auckland, New Zealand | `Conference`, `Research` | :star: :star: :star:
 2019.10.30 | **[CoRL](https://www.robot-learning.org/)** |  | Osaka, Japan | `Conference`, `Research`, `Robot Learning` | :star:
 2019.11.03 | **[IROS](https://www.iros2019.org/)** | [![](utils/twitter.png)](https://twitter.com/IROS2019MACAU) | Macau, China | `Conference`, `Workshop`, `Research`, `Robotics` |
-2019.11.04 | **[PPNIV](https://project.inria.fr/ppniv19/)** | |  Macau, China | `Workshop`, `Planning`, `Perception`, `Navigation` | :star: :star: :star: :star:
+2019.11.04 | **[PPNIV](https://project.inria.fr/ppniv19/)** | |  Macau, China | `Workshop`, `Planning`, `Perception`, `Navigation` | :star: :star: :star:
 2019.11.18 | **[FUNCTIONAL SAFETY MEETS ADAS](http://functional-safety-meets-adas.com/)** | | Ulm, Germany | `Conference`, `Workshop`, `Testing`, `Safety`, `ISO 26262` | :star:
 
 ## Machine Learning and Computer Vision
