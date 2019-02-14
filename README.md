@@ -52,12 +52,12 @@ Start | Event | Twitter | City, Country | Keywords | Priority(**)
 
 Start | Event | Twitter | City, Country | Keywords | Priority(**)
 :----:|:-----:|:-------:|:-------------:|:--------:|:-----------: 
-2019.06.16 | **[CVPR](http://cvpr2019.thecvf.com/)** | [![](utils/twitter.png)](https://twitter.com/cvpr2019) |  Long Beach, US | `Conference`, `Workshop`, `Research`, `Computer Vision` | :star: :star: 
-2019.10.27 | **[ICCV](http://iccv2019.thecvf.com/)** | [![](utils/twitter.png)](https://twitter.com/iccv19) |  Seoul, Korea | `Conference`, `Workshop`, `Tutorials`, `Research`, `Computer Vision` | :star: :star:
 2019.05.06 | **[ICLR](https://iclr.cc/)** | [![](utils/twitter.png)](https://twitter.com/iclr2019) |  New Orleans, US | `Conference`, `Workshop`, `Research` | :star: :star:
-2019.12.09 | ***[NEURIPS](https://neurips.cc/)** | [![](utils/twitter.png)](https://twitter.com/NeurIPSConf) | Vancouver, Canada | `Conference`, `Workshop`, `Tutorials`, `Research` | :star: :star: 
 2019.06.10 | **[ICML](https://icml.cc/Conferences/2019/)** | [![](utils/twitter.png)](https://twitter.com/icmlconf) | Long Beach , US | `Conference`, `Workshop`, `Tutorials`, `Research` | :star: :star: 
+2019.06.16 | **[CVPR](http://cvpr2019.thecvf.com/)** | [![](utils/twitter.png)](https://twitter.com/cvpr2019) |  Long Beach, US | `Conference`, `Workshop`, `Research`, `Computer Vision` | :star: :star: 
 2019.08.10 | ***[IJCAI](http://ijcai19.org/)** | [![](utils/twitter.png)](https://twitter.com/IJCAIconf) | Macao, China | `Conference`, `Workshop`, `Tutorials`, `Research` | :star: :star:
+2019.10.27 | **[ICCV](http://iccv2019.thecvf.com/)** | [![](utils/twitter.png)](https://twitter.com/iccv19) |  Seoul, Korea | `Conference`, `Workshop`, `Tutorials`, `Research`, `Computer Vision` | :star: :star:
+2019.12.09 | ***[NEURIPS](https://neurips.cc/)** | [![](utils/twitter.png)](https://twitter.com/NeurIPSConf) | Vancouver, Canada | `Conference`, `Workshop`, `Tutorials`, `Research` | :star: :star: 
 2020.08.23 | **[ECCV](http://eccv2020.eu/)** |  |  Glasgow, UK | `Conference`, `Workshop`, `Research`, `Computer Vision` | :star: :star:
 2020.06.08 | ***[ECAI](http://ecai2020.eu/)** | | Santiago de Compostela, Spain | `Conference`, `Workshop`, `Tutorials`, `Research` | :star: :star:
 
