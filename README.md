@@ -5,7 +5,7 @@ Non-exhaustive list of events for **Autonomous Driving Engineers** and **Develop
 It includes `Exhibitions`, `Academic Conferences`, `Tech Conferences`, as well as `Workshops` and `Tutorials`. 
 
 - (*) - we are attending or did in the past :airplane: :rocket: :zap:
-- (**) - relevance for our [Machine Learning Team](https://www.esrlabs.com/ai/) [![](utils/rsz_esr_mini_logo.png)](https://www.esrlabs.com/ai/)
+- (**) - relevance for our [Machine Learning Team](https://www.esrlabs.com/ai/) [![](utils/esr_mini_logo.png)](https://www.esrlabs.com/ai/)
 
 ## Autonomous Driving :car: :blue_car: 
 
