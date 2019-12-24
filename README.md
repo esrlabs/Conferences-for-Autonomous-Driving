@@ -1,77 +1,111 @@
 # Conferences-for-Autonomous-Driving
 
-Non-exhaustive list of events for **Autonomous Driving Engineers** and **Developers**. 
+Non-exhaustive list of events for **Autonomous Driving Engineers** and **Developers**.
 
-It includes `Exhibitions`, `Academic Conferences`, `Tech Conferences`, as well as `Workshops` and `Tutorials`. 
+It includes `Exhibitions`, `Academic Conferences`, `Tech Conferences`, as well as `Workshops`, `Tutorials` and `Summer Schools`.
 
-- (*) - we are attending or did in the past
+- (*) - we are attending or did in the past. See, for instance, our [IV19 report](https://github.com/chauvinSimon/IV19).
 - (**) - relevance for our [Machine Learning Team](https://www.esrlabs.com/ai/)
 
-## Autonomous Driving 
+## Autonomous Driving
 
 Start | Event | Twitter | City, Country | Keywords | Priority(**)
 :----:|:-----:|:-------:|:-------------:|:--------:|:-----------:
-2019.02.13 | **[AUTONOMOUS IVT](https://www.autonomousivt.com/en/)** | [![](utils/twitter.png)](https://twitter.com/ivtexpo) | Cologne, Germany | `Conference`, `Exhibition`, `Industrial Vehicles` | 
-2019.02.25 | **[AV19](https://autonomousvehicles.iqpc.com/)** | [![](utils/twitter.png)](https://twitter.com/vehicleinsights) | Santa Clara, US | `Conference`, `Workshop`, `Connected Cars` | 
-2019.02.25 | **[IPAM UCLA](https://www.ipam.ucla.edu/programs/workshops/autonomous-vehicles)** | [![](utils/twitter.png)](https://twitter.com/ipam_ucla) | Los Angeles, US  | `Workshop` | 
-2019.03.11 | **[TECH.AD](https://www.autonomous-driving-berlin.com/)** | [![](utils/twitter.png)](https://twitter.com/smartmobi_hub) | Berlin, Germany | `Conference` |
-2019.03.25 | **[ICSA](https://swk-www.informatik.uni-hamburg.de/~icsa2019/index.html)** | [![](utils/twitter.png)](https://twitter.com/ICSAconf) | Hamburg, Germany | `Conference`, `Software Architecture` | 
-2019.03.26 | **[TESTING AUTONOMOUS DRIVE](https://testingautonomousdrive.iqpc.de/)** | | Munich, Germany | `Conference`, `Workshop`, `Testing`, `Safety` | :star: 
-2019.04.02 | **[ATZ LIVE](https://www.atzlive.de/en/events/automated-driving/)** | | Wiesbaden, Germany | `Conference` |
-2019.04.08 | **[CV-HMI](http://www.szwgroup.com/autonomous-driving-and-future-mobility-2019/)** |  | Berlin, Germany | `Conference`, `Workshop`, `Connected Cars` |
-2019.04.19 | **[IEEE ICCAR](http://www.iccar.org/)** |  | Beijing, China | `Conference`, `Research`, `Control`, `Robotics`| :star: :star:
-2019.05.02 | **[ELECTRONOMOUS](https://www.electronomous.com/)** |  | Killarney, Ireland | `Conference`, `Connected Cars`, `ADAS` |
-2019.05.13 | **[SUMO USER CONFERENCE](https://www.dlr.de/ts/en/desktopdefault.aspx/tabid-3930/20125_read-53575/)** | | Berlin, Germany | `Conference`, `Workshop`, `Simulation`, `SUMO` | :star: :star:
-2019.05.13 | **[AAMAS](http://aamas2019.encs.concordia.ca/)** | [![](utils/twitter.png)](https://twitter.com/aamas2019) | Montreal, Canada | `Conference`, `Workshop`, `Tutorials`, `Research` |
-2019.05.16 | **[AUTOSENS](https://auto-sens.com/)** | [![](utils/twitter.png)](https://twitter.com/autosens_) | Detroit, US  | `Conference`, `Exibition`, `Perception`, `Sensor` |
-2019.05.20 | **[IEEE ICRA](https://icra2019.org/)** | [![](utils/twitter.png)](https://twitter.com/icra2019) | Montreal, Canada | `Conference`, `Research` | :star:
-2019.05.21 | **[AUTONOMOUS VEHICLE SYMPOSIUM](https://www.autonomousvehiclesymposium.com/en/)** | [![](utils/twitter.png)](https://twitter.com/avtexpo) | Stuttgart, Germany | `Conference`, `Exibition`, `Test`, `Software` | :star: :star:
-2019.05.25 | **[IEEE ICSE](https://2019.icse-conferences.org/home)** | [![](utils/twitter.png)](https://twitter.com/icseconf) | Montreal, Canada | `Conference`, `Workshop` |
-2019.06.02 | **[ICAS](https://www.iaria.org/conferences2019/ICAS19.html)** | | Athens, Greece | `Conference`, `Research` |
-2019.06.09 | ***[IEEE INTELLIGENT VEHICLES SYMPOSIUM](http://iv2019.org/)** | [![](utils/twitter.png)](https://twitter.com/ieeeiv2019) | Paris, France | `Conference`, `Workshop`, `Research` | :star: :star: :star:
-2019.06.09 | **[VDI CONFERENCE](https://www.vdi-wissensforum.de/en/event/automated-driving/)** | [![](utils/twitter.png)](https://twitter.com/vdi_tagungen) | Dusseldorf, Germany | `Conference` | 
-2019.06.21 | **[CARLA AD CHALLENGE WORKSHOP](https://carlachallenge.org/workshop/)** | [![](utils/twitter.png)](https://twitter.com/carlasimulator) | Long Beach, US | `Conference`, `Simulator`, `CARLA` | :star: :star:
-2019.06.24 | **[AAC](https://aac19.sciencesconf.org/)** | |  Orléans, France | `Conference`, `Control` | 
-2019.06.25 | **[AUTO SENSORS](https://www.autosensorsconf.com)** | [![](utils/twitter.png)](https://twitter.com/autosensorsconf) |  San Jose, US | `Conference`, `Sensors` | 
-2019.06.27 | **[AUTONOMOUS EXPO UK](http://www.autonomousvehicles-expo.co.uk/)** | [![](utils/twitter.png)](https://twitter.com/AutonomousExpo) | Telford, UK | `Conference` |
-2019.07.03 | **[IFAC IAV](http://www.konsulting.gda.pl/iav2019/web/)** | |  Gdansk, Poland | `Conference`, `Planning` | :star:
-2019.07.07 | **[RLDM](http://rldm.org/)** |  |  Montréal, Canada | `Conference`, `Workshop`, `Research`, `Reinforcement Learning ` | :star: :star: 
-2019.09.04 | **[IEEE ICVES](http://www.icves2019.org/)** | [![](utils/twitter.png)](https://twitter.com/ICVES2019) |  Cairo, Egypt | `Conference`, `Research`, `Sensors` |
-2019.09.12 | ***[IAA](https://www.iaa.de/en/)** | [![](utils/twitter.png)](https://twitter.com/iaamesse) | Frankfurt, Germany | `Expo` |
-2019.09.19 | **[AUTOSENS](https://auto-sens.com/)** | [![](utils/twitter.png)](https://twitter.com/autosens_) | Brussels, Belgium  | `Conference`, `Exibition`, `Perception`, `Sensor` | :star:
-2019.09.26 | **[AUTO.AI](https://www.auto-ai.eu/)** | [![](utils/twitter.png)](https://twitter.com/SmartMobi_Hub) | Berlin, Germany | `Conference` |
-2019.10.23 | ***[GPU TECHNOLOGY CONFERENCE](https://www.nvidia.com/en-eu/gtc/)** | [![](utils/twitter.png)](https://twitter.com/NVIDIAEU) | Munich, Germany | `Conference`, `Nvidia` |
-2019.10.23 | **[IEDAS – AKTIVE SICHERHEIT](https://tagung-aktive-sicherheit.de/)** | | Ingolstadt, Germany | `Conference`, `Safety` |
-2019.10.27 | **[IEEE ITSC](https://www.itsc2019.org/)** | [![](utils/twitter.png)](https://twitter.com/itsc2019) | Auckland, New Zealand | `Conference`, `Research` | :star: :star: :star:
-2019.10.30 | **[CoRL](https://www.robot-learning.org/)** |  | Osaka, Japan | `Conference`, `Research`, `Robot Learning` | :star:
-2019.11.03 | **[IROS](https://www.iros2019.org/)** | [![](utils/twitter.png)](https://twitter.com/IROS2019MACAU) | Macau, China | `Conference`, `Workshop`, `Research`, `Robotics` |
-2019.11.04 | **[PPNIV](https://project.inria.fr/ppniv19/)** | |  Macau, China | `Workshop`, `Planning`, `Perception`, `Navigation` | :star: :star: :star:
-2019.11.18 | **[FUNCTIONAL SAFETY MEETS ADAS](http://functional-safety-meets-adas.com/)** | | Ulm, Germany | `Conference`, `Workshop`, `Testing`, `Safety`, `ISO 26262` | :star:
+2020.02.25 | **[AV20](https://www.automotive-iq.com/events-autonomousvehicles/agenda-mc)** | [![](utils/twitter.png)](https://twitter.com/VehicleInsights) | Santa Clara, US | `Conference`, `Workshop`, `Connected Cars` | 
+2020.03.02 | **[FUNCTIONAL SAFETY MEETS ADAS](http://functional-safety-meets-adas.com/)** | | Ulm, Germany | `Conference`, `Workshop`, `Testing`, `Safety`, `ISO 26262` | :star:
+2020.03.02 | **[TECH.AD](https://www.autonomous-driving-berlin.com/)** | [![](utils/twitter.png)](https://twitter.com/smartmobi_hub) | Berlin, Germany | `Conference` |
+2020.03.16 | **[ICSA](http://icsa-conferences.org/2020/index.html)** | [![](utils/twitter.png)](https://twitter.com/ICSAconf) | Salvador, Brazil | `Conference`, `Software Architecture` | 
+2020.03.19 | **[IEEE ICVES](https://waset.org/vehicular-electronics-and-safety-conference-in-march-2020-in-prague)** |  |  Czech Republic | `Conference`, `Research`, `Sensors` |
+2020.03.31 | **[ATZ LIVE](https://www.atzlive.de/en/events/automated-driving/)** | | Wiesbaden, Germany | `Conference` |
+2020.04.01 | **[ELECTRONOMOUS](https://www.electronomous.com/)** |  | Dublin, Ireland | `Conference`, `Connected Cars`, `ADAS` |
+2020.04.17 | **[ICOIV](http://www.icoiv.org/)** |  | Berlin, Germany | `Conference` |
+2020.04.20 | **[IEEE ICCAR](http://www.iccar.org/)** |  | Singapore | `Conference`, `Research`, `Control`, `Robotics`| :star: :star:
+2020.05.09 | **[AAMAS](https://aamas2020.conference.auckland.ac.nz/)** | [![](utils/twitter.png)](https://twitter.com/Aamas2020C) | Auckland, New Zealand | `Conference`, `Workshop`, `Tutorials`, `Research` |
+2020.05.11 | **[SUMO USER CONFERENCE](https://www.dlr.de/ts/en/desktopdefault.aspx/tabid-3930/20125_read-58718/)** | | Berlin, Germany | `Conference`, `Workshop`, `Simulation`, `SUMO` | :star:
+2020.05.11 | **[FUNCTIONAL SAFETY MEETS ADAS](http://functional-safety-meets-adas.com/)** | | Ulm, Germany | `Conference`, `Workshop`, `Testing`, `Safety`, `ISO 26262` | :star:
+2020.05.12 | **[AUTOSENS](https://auto-sens.com/)** | [![](utils/twitter.png)](https://twitter.com/autosens_) | Detroit, US  | `Conference`, `Exibition`, `Perception`, `Sensor` |
+2020.05.23 | **[IEEE ICSE](https://conf.researchr.org/home/icse-2020/)** | [![](utils/twitter.png)](https://twitter.com/icseconf) | Seoul, South Korea | `Conference`, `Workshop` |
+2020.05.24 | **[ICAS](https://www.iaria.org/conferences2020/ICAS20.html)** | | Venice, Italy | `Conference`, `Research` |
+2020.05.27 | **[VDI CONFERENCE](https://www.vdi-wissensforum.de/en/event/automated-driving/)** | [![](utils/twitter.png)](https://twitter.com/vdi_tagungen) | Dusseldorf, Germany | `Conference` | 
+2020.05.31 | **[IEEE ICRA](https://icra2020.org/)** | [![](utils/twitter.png)](https://twitter.com/icra2020) | Paris, France | `Conference`, `Research` | :star:
+2020.06.16 | **[AV SYMPOSIUM](https://www.autonomousvehiclesymposium.com/en/)** | [![](utils/twitter.png)](https://twitter.com/avtexpo) | Stuttgart, Germany | `Conference`, `Exibition`, `Test`, `Software` | :star: :star:
+2020.06.22 | **[AUTO SENSORS](https://www.autosensorsconf.com)** | [![](utils/twitter.png)](https://twitter.com/autosensorsconf) |  San Jose, US | `Conference`, `Sensors` | 
+2020.06.23 | **[AUTONOMOUS EXPO UK](http://www.autonomousvehicles-expo.co.uk/)** | [![](utils/twitter.png)](https://twitter.com/AutonomousExpo) | Telford, UK | `Conference` |
+2020.06.23 | ***[IEEE INTELLIGENT VEHICLES SYMPOSIUM](https://2020.ieee-iv.org/)** | [![](utils/twitter.png)](https://twitter.com/ieeeiv2020) | Las Vegas, US | `Conference`, `Workshop`, `Research` | :star: :star: :star:
+2020.06.24 | **[AUTONOMOUS IVT](https://www.ivtexpo.com/en/autonomous-ivt.php)** | [![](utils/twitter.png)](https://twitter.com/ivtexpo) | Cologne, Germany | `Conference`, `Exhibition`, `Industrial Vehicles` | 
+2020.07.27 | **[AV SYMPOSIUM](https://www.automatedvehiclessymposium.org)** |  | San Diego, US | `Conference`| 
+2020.09.15 | **[AUTOSENS](https://auto-sens.com/)** | [![](utils/twitter.png)](https://twitter.com/autosens_) | Brussels, Belgium  | `Conference`, `Exibition`, `Perception`, `Sensor` | :star:
+2020.09.18 | **[AAC](https://www.avec2020.org/)** | |  Kanagawa, Japan | `Conference`, `Control` | 
+2020.09.20 | **[IEEE ITSC](https://www.ieee-itsc2020.org/)** | [![](utils/twitter.png)](https://twitter.com/itsc2020) | Rhodes, Greece  | `Conference`, `Research` | :star: :star: :star:
+2020.09.24 | **[AUTO.AI](https://www.auto-ai.eu/)** | [![](utils/twitter.png)](https://twitter.com/SmartMobi_Hub) | Berlin, Germany | `Conference` |
+2020.10.25 | **[IROS](http://www.iros2020.org/)** | | Las Vegas, US | `Conference`, `Workshop`, `Research`, `Robotics` |
+
+## Summer Schools
+
+Start | Event | Twitter | City, Country | Keywords | Priority(**)
+:----:|:-----:|:-------:|:-------------:|:--------:|:-----------: 
+2020.06.28 | **[ML SUMMER SCHOOL](http://mlss.tuebingen.mpg.de/)** |  |  Tübingen, Germany | `Summer School` | :star: :star: 
+2020.06.29 | **[DLRL SUMMER SCHOOL](https://dlrlsummerschool.ca/)** |  |  Montréal, Canada | `Summer School` | :star: 
+2020.07.02 | **[VISUM SUMMER SCHOOL](http://visum.inesctec.pt/)** |  |  Porto, Portugal | `Summer School` | :star: 
+2020.07.06 | **[EEML SUMMER SCHOOL](https://www.eeml.eu/)** |  |  Krakow, Poland | `Summer School` | :star: 
+2020.07.12 | **[ICCV SUMMER SCHOOL](https://iplab.dmi.unict.it/icvss2020/)** | [![](utils/twitter.png)](https://twitter.com/icvss) |  Sicily, Italy | `Summer School` | :star: :star: :star: 
+2020.07.27 | **[DEEPLEARN SUMMER SCHOOL](https://deeplearn2020.irdta.eu/)** |  |  Guanajuato, Mexico | `Summer School` | :star: 
+2020.09.15 | **[MATH FOR AV](https://www.ipam.ucla.edu/programs/long-programs/mathematical-challenges-and-opportunities-for-autonomous-vehicles/?tab=activities)** | [![](utils/twitter.png)](https://twitter.com/ipam_ucla) | Los Angeles, US  | `Workshop` | 
 
 ## Machine Learning and Computer Vision
 
 Start | Event | Twitter | City, Country | Keywords | Priority(**)
 :----:|:-----:|:-------:|:-------------:|:--------:|:-----------: 
-2019.05.06 | **[ICLR](https://iclr.cc/)** | [![](utils/twitter.png)](https://twitter.com/iclr2019) |  New Orleans, US | `Conference`, `Workshop`, `Research` | :star: :star:
-2019.06.10 | **[ICML](https://icml.cc/Conferences/2019/)** | [![](utils/twitter.png)](https://twitter.com/icmlconf) | Long Beach , US | `Conference`, `Workshop`, `Tutorials`, `Research` | :star: :star: 
-2019.06.16 | **[CVPR](http://cvpr2019.thecvf.com/)** | [![](utils/twitter.png)](https://twitter.com/cvpr2019) |  Long Beach, US | `Conference`, `Workshop`, `Research`, `Computer Vision` | :star: :star: 
-2019.08.10 | ***[IJCAI](http://ijcai19.org/)** | [![](utils/twitter.png)](https://twitter.com/IJCAIconf) | Macao, China | `Conference`, `Workshop`, `Tutorials`, `Research` | :star: :star:
-2019.10.27 | **[ICCV](http://iccv2019.thecvf.com/)** | [![](utils/twitter.png)](https://twitter.com/iccv19) |  Seoul, Korea | `Conference`, `Workshop`, `Tutorials`, `Research`, `Computer Vision` | :star: :star:
-2019.12.09 | ***[NEURIPS](https://neurips.cc/)** | [![](utils/twitter.png)](https://twitter.com/NeurIPSConf) | Vancouver, Canada | `Conference`, `Workshop`, `Tutorials`, `Research` | :star: :star: 
-2020.08.23 | **[ECCV](http://eccv2020.eu/)** |  |  Glasgow, UK | `Conference`, `Workshop`, `Research`, `Computer Vision` | :star: :star:
+2020.02.07 | **[AAAI](https://aaai.org/Conferences/AAAI-20/)** |  |  New York, US | `Conference`, `Workshop`, `Tutorials`, `Research` | :star: :star:
+2020.04.26 | **[ICLR](https://iclr.cc/)** | |  Addis Ababa, Ethiopia | `Conference`, `Workshop`, `Research` | :star: :star:
 2020.06.08 | ***[ECAI](http://ecai2020.eu/)** | | Santiago de Compostela, Spain | `Conference`, `Workshop`, `Tutorials`, `Research` | :star: :star:
+2020.06.14 | **[ICAPS](https://icaps20.icaps-conference.org/)** |  |  Nancy, France | `Conference`, `Workshop`, `Research`, `Planning` | :star: :star:
+2020.06.16 | **[CVPR](http://cvpr2020.thecvf.com/)** | [![](utils/twitter.png)](https://twitter.com/cvpr2020) |  Seattle, US | `Conference`, `Workshop`, `Research`, `Computer Vision` | :star: :star: 
+2020.07.11 | ***[IJCAI](https://ijcai20.org/)** | [![](utils/twitter.png)](https://twitter.com/IJCAIconf) | Yokohama, Japan | `Conference`, `Workshop`, `Tutorials`, `Research` | :star: :star:
+2020.07.11 | **[ICML](https://icml.cc/Conferences/2020/)** | [![](utils/twitter.png)](https://twitter.com/icmlconf) | Vienna, Austria | `Conference`, `Workshop`, `Tutorials`, `Research` | :star: :star: 
+2020.08.03 | **[UAI](http://auai.org/uai2020/)** |  |  Toronto, Canada | `Conference`, `Workshop`, `Research`, `Uncertainty` | :star: :star:
+2020.08.23 | **[ECCV](http://eccv2020.eu/)** |  |  Glasgow, UK | `Conference`, `Workshop`, `Research`, `Computer Vision` | :star: :star:
+2020.12.02 | ***[NEURIPS](https://neurips.cc/)** | [![](utils/twitter.png)](https://twitter.com/NeurIPSConf) | Vancouver, Canada | `Conference`, `Workshop`, `Tutorials`, `Research` | :star: :star: 
+2021.??.?? | **[ICCV](http://iccv2021.thecvf.com/)** | [![](utils/twitter.png)](https://twitter.com/iccv21) | Montreal, Canada | `Conference`, `Workshop`, `Tutorials`, `Research`, `Computer Vision` | :star: :star:
+
+## TBD
+
+- [Reinforcement Learning Summer SCOOL](https://rlss.inria.fr/)
+- [ROS Workshop on Planning, Perception, Navigation](https://project.inria.fr/ppniv19/)
+- [Reinforcement Learning and Decision Making](http://rldm.org/)
+- [IFAC Symposium on Intelligent Autonomous Vehicles](http://www.konsulting.gda.pl/iav2019/web/)
+- [Conference on Robot Learning](https://www.robot-learning.org/)
+- [Tagung Aktive Sicherheit](https://tagung-aktive-sicherheit.de/)
+- [Munich GTC](https://www.nvidia.com/en-eu/gtc/)
+- [CARLA Challenge Workshop](https://carlachallenge.org/workshop)
+- [Testing ADAS and Self-driving Cars Conference](https://www.automotive-iq.com/events-testingautonomousdrive)
+- [Deep|Bayes Summer School](http://deepbayes.ru/)
+- [PRAIRIE AI summer school](https://project.inria.fr/paiss/)
+- [North African Machine Learning Summer School](https://nassma.um6p.ma/)
+- [ML Summer School - Moscow](https://mlss2019.skoltech.ru/)
+- [CentraleSupelec's Artificial Intelligence Summer School](https://www.summerschoolcentralesupelec.fr/about/artificial-intelligence/)
+- [Imperial College London ML Summer School](https://sites.google.com/view/mlss-2019)
+- [Summer School on Cognitive Robotics](https://sites.usc.edu/cognitive-robotics/)
+- [Lisbon Summer School](http://lxmls.it.pt/)
+- [Summer School on Intrinsically Motivated Open-Ended Learning](http://www.goal-robots.eu/announcements/events/summer-school-2019-2/)
 
 ## Previous Years
+
+- [2019](past/2019.md)
 - [2018](past/2018.md)
 
 ## Regular Events
-- [MEETUP](https://www.meetup.com/topics/self-driving-cars/)
+
+- [ESRLABS.AI MEETUP](https://www.meetup.com/esrlabs-ai/)
+- [AD MEETUP](https://www.meetup.com/topics/self-driving-cars/)
 
 ## Other Conferences Calenders
+
 - [VISION BIB](http://conferences.visionbib.com/Iris-Conferences.html)
 - [GUIDE2RESEARCH - CV](http://www.guide2research.com/topconf/computer-vision)
 - [GUIDE2RESEARCH - ML](http://www.guide2research.com/topconf/machine-learning)
 - [AI DEADLIN](https://aideadlin.es/?sub=ML,CV,RO)
-
+- [TCVIL LAB](https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html)
+- [SUMMER SCHOOLS](https://github.com/sshkhr/awesome-mlss)
 
 [LICENSE](LICENSE)
