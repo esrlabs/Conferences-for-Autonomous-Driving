@@ -28,6 +28,7 @@ Start | Event | Twitter | City, Country | Keywords | Priority(**)
 2020.05.24 | **[ICAS](https://www.iaria.org/conferences2020/ICAS20.html)** | | Venice, Italy | `Conference`, `Research` |
 2020.05.27 | **[VDI CONFERENCE](https://www.vdi-wissensforum.de/en/event/automated-driving/)** | [![](utils/twitter.png)](https://twitter.com/vdi_tagungen) | Dusseldorf, Germany | `Conference` | 
 2020.05.31 | **[IEEE ICRA](https://icra2020.org/)** | [![](utils/twitter.png)](https://twitter.com/icra2020) | Paris, France | `Conference`, `Research` | :star:
+2020.06.12 | **[RSS](https://roboticsconference.org/)** | [![](utils/twitter.png)](https://twitter.com/RoboticsSciSys) |  Oregon, US | `Conference`, `Workshop`, `Robotics` | :star:
 2020.06.16 | **[AV SYMPOSIUM](https://www.autonomousvehiclesymposium.com/en/)** | [![](utils/twitter.png)](https://twitter.com/avtexpo) | Stuttgart, Germany | `Conference`, `Exibition`, `Test`, `Software` | :star: :star:
 2020.06.22 | **[AUTO SENSORS](https://www.autosensorsconf.com)** | [![](utils/twitter.png)](https://twitter.com/autosensorsconf) |  San Jose, US | `Conference`, `Sensors` | 
 2020.06.23 | **[AUTONOMOUS EXPO UK](http://www.autonomousvehicles-expo.co.uk/)** | [![](utils/twitter.png)](https://twitter.com/AutonomousExpo) | Telford, UK | `Conference` |
@@ -49,6 +50,7 @@ Start | Event | Twitter | City, Country | Keywords | Priority(**)
 2020.07.02 | **[VISUM SUMMER SCHOOL](http://visum.inesctec.pt/)** |  |  Porto, Portugal | `Summer School` | :star: 
 2020.07.06 | **[EEML SUMMER SCHOOL](https://www.eeml.eu/)** |  |  Krakow, Poland | `Summer School` | :star: 
 2020.07.12 | **[ICCV SUMMER SCHOOL](https://iplab.dmi.unict.it/icvss2020/)** | [![](utils/twitter.png)](https://twitter.com/icvss) |  Sicily, Italy | `Summer School` | :star: :star: :star: 
+2020.07.21 | **[LISBON SUMMER SCHOOL](http://lxmls.it.pt/)** |  |  Lisbon, Portugal | `Summer School` | :star: 
 2020.07.27 | **[DEEPLEARN SUMMER SCHOOL](https://deeplearn2020.irdta.eu/)** |  |  Guanajuato, Mexico | `Summer School` | :star: 
 2020.09.15 | **[MATH FOR AV](https://www.ipam.ucla.edu/programs/long-programs/mathematical-challenges-and-opportunities-for-autonomous-vehicles/?tab=activities)** | [![](utils/twitter.png)](https://twitter.com/ipam_ucla) | Los Angeles, US  | `Workshop` | 
 
@@ -70,7 +72,7 @@ Start | Event | Twitter | City, Country | Keywords | Priority(**)
 
 ## TBD
 
-- [Reinforcement Learning Summer SCOOL](https://rlss.inria.fr/)
+- [Reinforcement Learning Summer SCOOL](https://rlss.inria.fr/) - _"will not be organized in 2020"_ :weary:
 - [ROS Workshop on Planning, Perception, Navigation](https://project.inria.fr/ppniv19/)
 - [Reinforcement Learning and Decision Making](http://rldm.org/)
 - [IFAC Symposium on Intelligent Autonomous Vehicles](http://www.konsulting.gda.pl/iav2019/web/)
@@ -82,11 +84,10 @@ Start | Event | Twitter | City, Country | Keywords | Priority(**)
 - [Deep|Bayes Summer School](http://deepbayes.ru/)
 - [PRAIRIE AI summer school](https://project.inria.fr/paiss/)
 - [North African Machine Learning Summer School](https://nassma.um6p.ma/)
-- [ML Summer School - Moscow](https://mlss2019.skoltech.ru/)
+- [ML Summer School - Moscow](https://smiles.skoltech.ru/)
 - [CentraleSupelec's Artificial Intelligence Summer School](https://www.summerschoolcentralesupelec.fr/about/artificial-intelligence/)
 - [Imperial College London ML Summer School](https://sites.google.com/view/mlss-2019)
 - [Summer School on Cognitive Robotics](https://sites.usc.edu/cognitive-robotics/)
-- [Lisbon Summer School](http://lxmls.it.pt/)
 - [Summer School on Intrinsically Motivated Open-Ended Learning](http://www.goal-robots.eu/announcements/events/summer-school-2019-2/)
 
 ## Previous Years
